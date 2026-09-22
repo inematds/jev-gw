@@ -1,0 +1,2 @@
+{"impressao": "d9b6e386a4847c21d89ac831345812334cb2276c205e4ad50bead8b60a70539f", "modelo": "typesafe/jev-1.13-20260917", "perguntas": ["fila"], "acao": "suggest", "origem": "api", "custo_usd": 1.554e-05, "latencia_ms": 610.2, "ok": true, "motivo": "", "momento": "2026-09-22T11:29:06+00:00"}
+{"impressao": "d9b6e386a4847c21d89ac831345812334cb2276c205e4ad50bead8b60a70539f", "modelo": "typesafe/jev-1.13-20260917", "perguntas": ["fila"], "acao": "suggest", "origem": "cache", "custo_usd": 0.0, "latencia_ms": 0.0, "ok": true, "motivo": "", "momento": "2026-09-22T11:29:11+00:00"}
