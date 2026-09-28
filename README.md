@@ -1,5 +1,7 @@
 # 🚪 jev-gw — gateway de decisão para o Jev
 
+**🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
+
 [![jev-gw](guia/assets/banner.jpg)](https://inematds.github.io/jev-gw/guia/)
 
 ## 📖 Guia de uso
